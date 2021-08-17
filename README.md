@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dart language
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 my email is m.aqeel.tariq@gmail.com
-- My FIverr accout is https://www.fiverr.com/aqeeltariq_1122?up_rollout=true
+- My Fiverr accout is https://www.fiverr.com/aqeeltariq_1122?up_rollout=true
 
 <!---
 AqeelTariq1122/AqeelTariq1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
