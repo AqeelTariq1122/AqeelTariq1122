@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AqeelTariq1122
 - 👀 I’m interested in Flutter development and Simulation
-- 🌱 I’m currently learning Dart language
-- 💞️ I’m looking to collaborate on Flutter projects
-- 📫 my email is m.aqeel.tariq@gmail.com
+- 🌱 I’m currently working as AnyLogic Consultani
+- 💞️ I’m looking to collaborate on AnyLogic Simulation Projects
+- 📫 my email is m.aqeel.tariq1122@gmail.com
 - My Fiverr accout is https://www.fiverr.com/aqeeltariq_1122?up_rollout=true
 
 <!---
